@@ -23,7 +23,7 @@
   "dependencies": {
     "@types/k6": "^0.50.1",
     "mathjs": "^12.4.2",
-    "puppeteer": "^22.11.2"
+    "puppeteer": "^22.15.0"
   },
   "devDependencies": {
     "@tsconfig/node-lts": "^20.1.3",
