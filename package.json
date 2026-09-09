@@ -33,6 +33,6 @@
     "ts-node": "^10.9.2",
     "tsconfig-domdomegg": "^1.0.0",
     "typescript": "^5.4.4",
-    "vitest": "^4.1.0"
+    "vitest": "^4.1.11"
   }
 }
